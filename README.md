@@ -1,2 +1,2 @@
 # prediction
-Prediction model for UCl 2025-26 and PL
+Prediction model for World Cup 2026
