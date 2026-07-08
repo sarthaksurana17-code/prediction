@@ -1,1 +1,140 @@
+date,home_team,away_team,home_score,away_score,competition
+2014-06-15,Argentina,Bosnia and Herzegovina,2,1,world_cup_group
+2014-06-21,Argentina,Iran,1,0,world_cup_group
+2014-06-25,Argentina,Nigeria,3,2,world_cup_group
+2014-07-01,Switzerland,Argentina,0,1,world_cup_knockout
+2014-07-05,Belgium,Argentina,0,1,world_cup_knockout
+2014-07-09,Netherlands,Argentina,0,0,world_cup_knockout
+2014-07-13,Germany,Argentina,1,0,world_cup_final
+2014-06-15,France,Honduras,3,0,world_cup_group
+2014-06-20,France,Switzerland,5,2,world_cup_group
+2014-06-25,Ecuador,France,0,0,world_cup_group
+2014-06-30,France,Nigeria,2,0,world_cup_knockout
+2014-07-04,France,Germany,0,1,world_cup_knockout
+2014-06-15,Switzerland,Ecuador,2,1,world_cup_group
+2014-06-20,France,Switzerland,5,2,world_cup_group
+2014-06-25,Honduras,Switzerland,0,3,world_cup_group
+2014-06-17,Belgium,Algeria,2,1,world_cup_group
+2014-06-22,Belgium,Russia,1,0,world_cup_group
+2014-06-26,South Korea,Belgium,0,1,world_cup_group
+2014-07-01,USA,Belgium,1,2,world_cup_knockout
+2014-07-05,Belgium,Argentina,0,1,world_cup_knockout
+2014-06-14,England,Italy,1,2,world_cup_group
+2014-06-19,Uruguay,England,2,1,world_cup_group
+2014-06-24,Costa Rica,England,0,0,world_cup_group
+2014-06-13,Spain,Netherlands,1,5,world_cup_group
+2014-06-18,Spain,Chile,0,2,world_cup_group
+2014-06-23,Australia,Spain,0,3,world_cup_group
+2018-06-16,France,Australia,2,1,world_cup_group
+2018-06-21,France,Peru,1,0,world_cup_group
+2018-06-26,Denmark,France,0,0,world_cup_group
+2018-06-30,France,Argentina,4,3,world_cup_knockout
+2018-07-06,Uruguay,France,0,2,world_cup_knockout
+2018-07-10,France,Belgium,1,0,world_cup_knockout
+2018-07-15,France,Croatia,4,2,world_cup_final
+2018-06-18,Argentina,Iceland,1,1,world_cup_group
+2018-06-21,Argentina,Croatia,0,3,world_cup_group
+2018-06-26,Nigeria,Argentina,1,2,world_cup_group
+2018-06-30,France,Argentina,4,3,world_cup_knockout
+2018-06-18,Belgium,Panama,3,0,world_cup_group
+2018-06-23,Belgium,Tunisia,5,2,world_cup_group
+2018-06-28,England,Belgium,0,1,world_cup_group
+2018-07-02,Belgium,Japan,3,2,world_cup_knockout
+2018-07-06,Brazil,Belgium,1,2,world_cup_knockout
+2018-07-10,France,Belgium,1,0,world_cup_knockout
+2018-07-14,Belgium,England,2,0,world_cup_knockout
+2018-06-18,England,Tunisia,2,1,world_cup_group
+2018-06-24,England,Panama,6,1,world_cup_group
+2018-06-28,England,Belgium,0,1,world_cup_group
+2018-07-03,Colombia,England,1,1,world_cup_knockout
+2018-07-07,Sweden,England,0,2,world_cup_knockout
+2018-07-11,Croatia,England,2,1,world_cup_knockout
+2018-07-14,Belgium,England,2,0,world_cup_knockout
+2018-06-15,Portugal,Spain,3,3,world_cup_group
+2018-06-20,Spain,Iran,1,0,world_cup_group
+2018-06-25,Spain,Morocco,2,2,world_cup_group
+2018-07-01,Spain,Russia,1,1,world_cup_knockout
+2018-06-15,Morocco,Iran,0,1,world_cup_group
+2018-06-20,Portugal,Morocco,1,0,world_cup_group
+2018-06-25,Spain,Morocco,2,2,world_cup_group
+2018-06-17,Switzerland,Brazil,1,1,world_cup_group
+2018-06-22,Serbia,Switzerland,1,2,world_cup_group
+2018-06-27,Switzerland,Costa Rica,2,2,world_cup_group
+2018-07-03,Sweden,Switzerland,1,0,world_cup_knockout
+2022-11-22,Argentina,Saudi Arabia,1,2,world_cup_group
+2022-11-26,Argentina,Mexico,2,0,world_cup_group
+2022-11-30,Poland,Argentina,0,2,world_cup_group
+2022-12-03,Argentina,Australia,2,1,world_cup_knockout
+2022-12-09,Netherlands,Argentina,2,2,world_cup_knockout
+2022-12-13,Argentina,Croatia,3,0,world_cup_knockout
+2022-12-18,Argentina,France,3,3,world_cup_final
+2022-11-22,France,Australia,4,1,world_cup_group
+2022-11-26,France,Denmark,2,1,world_cup_group
+2022-11-30,Tunisia,France,1,0,world_cup_group
+2022-12-04,France,Poland,3,1,world_cup_knockout
+2022-12-10,England,France,1,2,world_cup_knockout
+2022-12-14,France,Morocco,2,0,world_cup_knockout
+2022-12-18,Argentina,France,3,3,world_cup_final
+2022-11-23,Morocco,Croatia,0,0,world_cup_group
+2022-11-27,Belgium,Morocco,0,2,world_cup_group
+2022-12-01,Canada,Morocco,1,2,world_cup_group
+2022-12-06,Morocco,Spain,0,0,world_cup_knockout
+2022-12-10,Morocco,Portugal,1,0,world_cup_knockout
+2022-12-14,France,Morocco,2,0,world_cup_knockout
+2022-12-17,Croatia,Morocco,2,1,world_cup_knockout
+2022-11-23,Spain,Costa Rica,7,0,world_cup_group
+2022-11-27,Spain,Germany,1,1,world_cup_group
+2022-12-01,Japan,Spain,2,1,world_cup_group
+2022-12-06,Morocco,Spain,0,0,world_cup_knockout
+2022-11-23,Belgium,Canada,1,0,world_cup_group
+2022-11-27,Belgium,Morocco,0,2,world_cup_group
+2022-12-01,Croatia,Belgium,0,0,world_cup_group
+2022-11-21,England,Iran,6,2,world_cup_group
+2022-11-25,England,USA,0,0,world_cup_group
+2022-11-29,Wales,England,0,3,world_cup_group
+2022-12-04,England,Senegal,3,0,world_cup_knockout
+2022-12-10,England,France,1,2,world_cup_knockout
+2022-11-24,Switzerland,Cameroon,1,0,world_cup_group
+2022-11-28,Brazil,Switzerland,1,0,world_cup_group
+2022-12-02,Serbia,Switzerland,2,3,world_cup_group
+2022-12-06,Portugal,Switzerland,6,1,world_cup_knockout
+2026-06-15,France,Senegal,3,1,world_cup_group
+2026-06-16,Norway,Iraq,4,1,world_cup_group
+2026-06-22,France,Iraq,3,0,world_cup_group
+2026-06-22,Norway,Senegal,3,2,world_cup_group
+2026-06-26,France,Norway,3,1,world_cup_group
+2026-06-26,Senegal,Iraq,5,1,world_cup_group
+2026-06-15,Belgium,Egypt,1,1,world_cup_group
+2026-06-16,Iran,New Zealand,2,2,world_cup_group
+2026-06-21,Belgium,Iran,0,0,world_cup_group
+2026-06-21,Egypt,New Zealand,3,1,world_cup_group
+2026-06-26,Egypt,Iran,1,1,world_cup_group
+2026-06-26,Belgium,New Zealand,5,1,world_cup_group
+2026-06-15,Spain,Cabo Verde,0,0,world_cup_group
+2026-06-15,Saudi Arabia,Uruguay,1,1,world_cup_group
+2026-06-21,Spain,Saudi Arabia,4,0,world_cup_group
+2026-06-21,Uruguay,Cabo Verde,2,2,world_cup_group
+2026-06-26,Cabo Verde,Saudi Arabia,0,0,world_cup_group
+2026-06-26,Spain,Uruguay,1,0,world_cup_group
+2026-06-17,Switzerland,Qatar,1,1,world_cup_group
+2026-06-24,Switzerland,Bosnia and Herzegovina,4,1,world_cup_group
+2026-06-14,England,Tunisia,2,1,world_cup_group
+2026-06-20,England,Panama,6,1,world_cup_group
+2026-06-11,Argentina,Algeria,3,0,world_cup_group
+2026-07-03,Argentina,Cabo Verde,3,2,world_cup_knockout
+2026-07-03,Colombia,Ghana,1,0,world_cup_knockout
+2026-07-02,Spain,Austria,3,0,world_cup_knockout
+2026-07-02,Switzerland,Algeria,2,0,world_cup_knockout
+2026-06-30,France,Sweden,3,0,world_cup_knockout
+2026-06-30,Norway,Ivory Coast,2,1,world_cup_knockout
+2026-07-01,England,DR Congo,2,1,world_cup_knockout
+2026-07-01,Belgium,Senegal,3,2,world_cup_knockout
+2026-07-04,France,Paraguay,1,0,world_cup_knockout
+2026-07-05,Norway,Brazil,2,1,world_cup_knockout
+2026-07-05,England,Mexico,3,2,world_cup_knockout
+2026-07-06,Spain,Portugal,1,0,world_cup_knockout
+2026-07-06,Belgium,USA,4,1,world_cup_knockout
+2026-07-07,Argentina,Egypt,3,2,world_cup_knockout
+2026-07-04,Morocco,Canada,3,0,world_cup_knockout
+2026-07-07,Switzerland,Colombia,1,0,world_cup_knockout
 
